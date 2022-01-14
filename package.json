@@ -1,0 +1,12 @@
+{
+  "name": "sparkleweb",
+  "version": "1.0.0",
+  "description": "Sparkle Web",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Juliette Rapala <juliette@julietterapala.com>",
+  "license": "ISC"
+}
